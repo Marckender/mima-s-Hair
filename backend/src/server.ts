@@ -1,4 +1,4 @@
-import Mima from "./index";
+import Mima from "./Mima";
 
 const port = process.env.PORT || "3333";
 
